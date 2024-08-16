@@ -1,0 +1,15 @@
+/* style,css */
+.click{
+   background-color: rgb(7, 5, 5); 
+   color: #ffffff;
+}
+
+.onclick{
+    background-color: rgb(255, 255, 0);
+}
+
+.click,
+.onclick{
+    font-size: 28px;
+    font-family: Helvetica,Times New Roman,sans-serif;
+}
